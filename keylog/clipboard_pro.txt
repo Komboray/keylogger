@@ -1,0 +1,9 @@
+Clipboard Data: 
+keys_information_e = "e_log.txt"
+system_information_e = "e_sys.txt"
+clipboard_information_e = "e_clipboard.txt"Clipboard Data: 
+keys_information_e = "e_log.txt"
+system_information_e = "e_sys.txt"
+clipboard_information_e = "e_clipboard.txt"Clipboard Data: 
+###########################################################ADDED THE PART BELOW ##########################################Clipboard Data: 
+###########################################################ADDED THE PART BELOW ##########################################

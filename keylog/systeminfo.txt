@@ -1,0 +1,10 @@
+Public IP ADD: 149.102.244.71Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System:Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-3TVNGQP
+Private IP ADD: 10.96.0.55
+Public IP ADD: 149.102.244.71Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System:Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-3TVNGQP
+Private IP ADD: 10.96.0.55

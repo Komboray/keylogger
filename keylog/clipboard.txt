@@ -1,0 +1,6 @@
+Clipboard Data: 
+# we are going to dec the file contentsClipboard Data: 
+# we are going to dec the file contentsClipboard Data: 
+# we are going to dec the file contentsClipboard Data: 
+sendText_emails(email_list)Clipboard Data: 
+sendText_emails(email_list)
